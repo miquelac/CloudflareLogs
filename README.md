@@ -4,7 +4,7 @@
 
 
 
-<img align="right" width="150" height="100" src="logo.png">
+
 
 <br/>
 
