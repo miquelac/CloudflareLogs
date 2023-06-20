@@ -8,7 +8,7 @@
 
 <br/>
 
-# Victoria Secret General Prospective for last month
+# VS General Prospective for last month
 
 
 From Cloudflare we have to flavours to download Logs, Logpush and Logpull
